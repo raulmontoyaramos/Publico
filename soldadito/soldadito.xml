@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="cancion.xsl"?>
 <cancion>
-<titulo>Soldadito marinero</titulo>
+    <titulo>Soldadito marinero</titulo>
     <autor>Fito y fitipaldis</autor>
     <idioma>Español</idioma>
     <letras>
@@ -44,6 +44,4 @@
         	<verso>Después de un invierno malo</verso>
     	</estrofa>
 	</letras>
-
-
 </cancion>
