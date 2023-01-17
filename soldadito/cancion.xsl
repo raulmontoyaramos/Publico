@@ -17,6 +17,8 @@
 					</xsl:for-each>
 					<br/>
 				</xsl:for-each>
+				
+				<p>(Autor: <xsl:value-of select="cancion/autor"/>)</p>
 						
 			</body>
 		</html>
