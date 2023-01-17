@@ -6,7 +6,8 @@
 				
 			</head>
 			<body>
-				<h2>Soldadito</h2>
+				<h2>Canción:</h2>
+				<h1><xsl:value-of select="titulo"/></h1>
 			</body>
 		</html>
 	</xsl:template>
